@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1999957690/AndroidTFLite-master.iml" filepath="$PROJECT_DIR$/.idea/modules/-1999957690/AndroidTFLite-master.iml" group="AndroidTFLite-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="AndroidTFLite-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-15653800/mylibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/-15653800/mylibrary.iml" group="AndroidTFLite-master/mylibrary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-485267750/mylibrary2.iml" filepath="$PROJECT_DIR$/.idea/modules/-485267750/mylibrary2.iml" group="AndroidTFLite-master/mylibrary2" />
+    </modules>
+  </component>
+</project>
